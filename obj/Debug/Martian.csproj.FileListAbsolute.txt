@@ -1,0 +1,7 @@
+c:\users\luna\source\repos\Martian\Martian\bin\Debug\Martian.exe.config
+c:\users\luna\source\repos\Martian\Martian\bin\Debug\Martian.exe
+c:\users\luna\source\repos\Martian\Martian\bin\Debug\Martian.pdb
+c:\users\luna\source\repos\Martian\Martian\obj\Debug\Martian.csprojAssemblyReference.cache
+c:\users\luna\source\repos\Martian\Martian\obj\Debug\Martian.csproj.CoreCompileInputs.cache
+c:\users\luna\source\repos\Martian\Martian\obj\Debug\Martian.exe
+c:\users\luna\source\repos\Martian\Martian\obj\Debug\Martian.pdb
